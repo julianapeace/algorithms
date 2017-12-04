@@ -22,6 +22,8 @@ Sample Input
 Sample Output
 
 3713081631934410656
+
+submitted: Submitted 50110 times
 """
 def testMap():
     def multiply(x):
@@ -33,25 +35,22 @@ def testMap():
     for i in range(5):
         value = list(map(lambda x: x(i), funcs))
         print(value)
+# testMap()
 
-def addDog(x):
-    if x == 2:
-        print("dog")
-    print(x)
+def solution():
+    xlist = list(integer_list)
+    t = (xlist[0],)
+    for i in range(1,n):
+        t = t + (xlist[i],)
+    print(hash(t))
 
 if __name__ == '__main__':
-    # n = int(input()) #3
-    # integer_list = map(int, input().split()) #3 2 1
-    x_list = [2,4,6,7]
-    print(x_list)
-    value = list(map(lambda x: x**2, x_list))
-    print(value)
+    n = int(input()) #3
+    integer_list = map(int, input().split()) #3 2 1
 
-    # t = (1,2,3)
-    # print(t)
-    # print(hash(t))
+    solution()
 
-    # testMap()
+
 
 
 
