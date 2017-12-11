@@ -3,7 +3,7 @@ https://www.hackerrank.com/challenges/capitalize/problem
 Submitted 19194 times
 """
 string = "1 w 2 r 3g"
-# string="hello world"
+string="hello world"
 # string = "hello w0rld"
 def capitalize(string):
     sstring = string.split()
