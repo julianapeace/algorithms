@@ -5,5 +5,13 @@
 
 ## Updates
 --------
+#### December 3, 2017
+- Ranked 66,000
+#### December 4, 2017
+- Ranked 32,000
+#### December 5, 2017
+- Ranked 21,311
+#### December 6, 2017
+- Ranked 19,238
 #### December 10, 2017
--  Rank 19,496
+- Ranked 19,496
