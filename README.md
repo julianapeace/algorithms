@@ -15,3 +15,5 @@
 - Ranked 19,238
 #### December 10, 2017
 - Ranked 19,496
+#### December 17, 2017
+- Ranked 18,318

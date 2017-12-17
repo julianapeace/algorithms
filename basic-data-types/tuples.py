@@ -39,7 +39,9 @@ def testMap():
 
 def solution():
     xlist = list(integer_list)
+    print(xlist)
     t = (xlist[0],)
+    print(t)
     for i in range(1,n):
         t = t + (xlist[i],)
     print(hash(t))
