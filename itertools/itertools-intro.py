@@ -15,3 +15,6 @@ for i in itertools.count(10, 0.25):
         break
 #compress(a,b) returns all elements in a if the corresponding element in b is True
 print (list(itertools.compress(letters, booleans)))
+
+#
+print (list(itertools.map((lambda x: x*2), numbers)))
