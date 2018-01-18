@@ -1,0 +1,24 @@
+"""
+Consider a table named 'salary' having the following columns:
+'id' (type INT)
+'salary' (type INT)
+'incentive' (type INT)
+'tax' (type INT)
+
+Write a standard SQL query which will update the tax column with the sume of 10% of salary and 2% of incentive, for those salaries which are more than 15000.
+"""
+UPDATE salary
+SET tax = (salary * 0.1) + (incentive * 0.02)
+WHERE salary > 15000
+
+"""
+Consider a database with one table called 'user' having two fields:
+'id' type(INTEGER, PRIMARY KEY)
+'name' type: VARCHAR(32)
+
+Write a standard SQL query which retrieves the second highest value of 'id' from the 'user' table. The value returned should be represented using the column name 'id'.
+"""
+SELECT id
+FROM user
+ORDER BY id
+DESC LIMIT 1,1
