@@ -1,6 +1,7 @@
 """
 https://www.hackerrank.com/challenges/collections-counter/problem
 """
+from collections import Counter
 
 if __name__ == '__main__':
     x = int(input()) #num of shoes
@@ -10,6 +11,7 @@ if __name__ == '__main__':
     for i in n.split():
         list_of_shoe_sizes.append(int(i))
     print(list_of_shoe_sizes)
+    print(Counter(list_of_shoe_sizes))
 
     num_of_customers = int(input()) # num of customers
 
