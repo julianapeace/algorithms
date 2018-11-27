@@ -4,9 +4,9 @@
 ## My goal is to be in the top 10% of [hackerrank](https://www.hackerrank.com/).
 - I began the challenge ranked at place 190,000 on December 2, 2017.
 - To meet my goal, I will have to rank in the top 19,000.
+-----
 
 ## Updates
---------
 #### December 3, 2017
 - Ranked 66,000
 #### December 4, 2017
