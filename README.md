@@ -1,4 +1,6 @@
-# algorithms
+# Algorithms
+ ![Algorithms](https://media.giphy.com/media/3o6Yg4GUVgIUg3bf7W/giphy.gif) 
+ 
 ## My goal is to be in the top 10% of [hackerrank](https://www.hackerrank.com/).
 - I began the challenge ranked at place 190,000 on December 2, 2017.
 - To meet my goal, I will have to rank in the top 19,000.
